@@ -1,1 +1,1 @@
-Tutaj zajdują się poszczególe projekty stworzone przy uzyciu reacj-js
+Tutaj zajdują się poszczególe projekty stworzone przy uzyciu react-js
