@@ -5,10 +5,19 @@ Główny widok pozwala uzytkownikowi:
 - wybrać zadania posegregowane wg działu
 - wejść w losowe zadanie, które odświeża się za każdym razem gdy włączamy aplikacje.
 
+  
+<img width="410" alt="Zrzut ekranu 2024-11-19 o 19 26 39" src="https://github.com/user-attachments/assets/c9973f68-3fc2-4e41-9ba2-f2dfb99d5f60">
+
+
+
+
 
 Zadania wyświetlane są w liście (LazyListView), ładują się na bieżąco w zależności od pozycji uzytkownika. 
 
 <img width="482" alt="Zrzut ekranu 2024-11-19 o 19 39 13" src="https://github.com/user-attachments/assets/92c1402e-8f93-46b7-92e4-eb571b24cd5c">
+
+
+
 
 
 Użytkownik może wejść w poszczególne zadanie by sprawdzić jego poprawną odpowiedź czy też zapisać je aby wrócić do niego później. 
