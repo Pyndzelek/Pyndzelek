@@ -1,4 +1,4 @@
-# 👋 Hi
+# 👋 Hi, apki IOS i web
 
 
 <!---
