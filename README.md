@@ -1,5 +1,5 @@
 👋 Hi, I’m @Pyndzelek
-I just enjoy creating IOS apps. Currently trying to learn Swift + SwiftUI
+I just enjoy workig apps.
 
 <!---
 Pyndzelek/Pyndzelek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
