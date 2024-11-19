@@ -1,8 +1,4 @@
-# React + Vite
+# Word analytics
+aplikacja, która ma na celu analizować tekst pod kątem liczby znakow i wyrazow oraz sprawdzić czy tekst mieści się w limicie słow popularych portali społecznościowych.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<img width="1680" alt="Zrzut ekranu 2024-11-19 o 18 11 30" src="https://github.com/user-attachments/assets/1497365f-7df0-4508-8994-846328b21a15">
