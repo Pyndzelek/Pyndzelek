@@ -1,6 +1,4 @@
-# 👋 apki IOS i web
-
-https://github.com/Pyndzelek/Pyndzelek
+# 👋 apki mobilne i webowe
 
 <!---
 Pyndzelek/Pyndzelek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
